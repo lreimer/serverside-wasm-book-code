@@ -3,8 +3,6 @@ name = "smart-cms"
 edition = "2021"
 version = "0.1.0"
 
-[workspace]
-
 [lib]
 crate-type = ["cdylib"]
 
